@@ -1,0 +1,14 @@
+# Python environments and cache files
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Scan reports can contain target and response details
+reports/*
+!reports/.gitkeep
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
